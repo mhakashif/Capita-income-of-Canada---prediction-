@@ -1,0 +1,10 @@
+Here we have taken a data  of Canada per capita income from years 1970 to 2016
+First we will clean the data and keep in table format 
+If any column have any NULL value then .  Fill NULL values with median value of a column
+Then represents the data in scatter plot 
+We will apply  machine learning algorithms like  linear regression with single variable 
+Linear regression: Y = mx + b
+Here percapitaincome is dependent variable and year is independent variable 
+At last we can predict the percapitaincome 
+To predict house percapitaincome we must give data 'year'
+That predicted value is not perfectly correct , but it can make proper solution 
